@@ -1,5 +1,5 @@
 context:
-  version: "3.7.0"
+  version: "3.7.1"
 
 package:
   name: napi-rs-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@napi-rs/cli/-/cli-${{ version }}.tgz
-  sha256: 24a49d4f316db3d9fe68c09b89c423669d925c5bfa3d3efe55f2bf60ae1dc33f
+  sha256: 66ea16b730b72fa45843876405bcefe8eaf551040d109524022dfc570b3be300
 
 build:
   noarch: generic
